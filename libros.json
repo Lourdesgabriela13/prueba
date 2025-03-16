@@ -1,0 +1,214 @@
+{
+"Libros" : [
+  {
+      "Título": "Tinta y fuego",
+      "Autor": "Benito Olmo",
+      "Editorial": "Editorial Planeta",
+      "Año": 2024,
+      "Categoría": "Fantasía",
+      "ISBN": "978-1234567890",
+      "Sinopsis": "Una historia mágica de amor y aventura.",
+      "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFsRZGSQbxipnCS1uN-TL_niIes28nm_OkBw&s"
+    },
+    {
+      "Título": "Orgullo y prejuicio",
+      "Autor": "Jane Austen",
+      "Editorial": "Editorial Alba",
+      "Año": 1813,
+      "Categoría": "Romance",
+      "ISBN": "978-8490650885",
+      "Sinopsis": "Una novela clásica sobre el amor y las diferencias sociales.",
+      "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWq5KR6whBFa8yIPPNfisIARpTtmRXJwN2Q&s"
+    },
+    {
+      "Título": "Las mil y una noches",
+      "Autor": "Anónimo",
+      "Editorial": "Editorial Gredos",
+      "Año": 1704,
+      "Categoría": "Clásico",
+      "ISBN": "978-8424910654",
+      "Sinopsis": "Una colección de historias árabes llenas de magia y aventura.",
+      "Imagen": "https://www.ellibrototal.com/testLtotal/CARATULAS/libros/2011/6/1679.jpg"
+    },
+    {
+      "Título": "Boulevard",
+      "Autor": "Flor M. Salvador",
+      "Editorial": "Editorial NARCEA",
+      "Año": 2019,
+      "Categoría": "Romance",
+      "ISBN": "978-8490650886",
+      "Sinopsis": "Una historia de amor y superación personal.",
+      "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1NIGl4q4YedkNK48vg_xIAbxY02TUtJKp4Q&s"
+    },
+    {
+      "Título": "Los miserables",
+      "Autor": "Victor Hugo",
+      "Editorial": "Editorial Anaya",
+      "Año": 1862,
+      "Categoría": "Clásico",
+      "ISBN": "978-8491050887",
+      "Sinopsis": "Una novela épica sobre la injusticia social y la redención.",
+      "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2D9ypLH-bpvQ2EKjF5ixI6DOWV2nch5bDXg&s"
+    },
+    {
+      "Título": "Cien años de soledad",
+      "Autor": "Gabriel García Márquez",
+      "Editorial": "Editorial Sudamericana",
+      "Año": 1967,
+      "Categoría": "Realismo mágico",
+      "ISBN": "978-8491050888",
+      "Sinopsis": "Una obra maestra de la literatura latinoamericana.",
+      "Imagen": "https://liberbooksrd.com/wp-content/uploads/2022/07/CIEN-ANOS-DE-SOLEDAD-9788497592208.jpg"
+    },
+    {
+      "Título": "Divergente",
+      "Autor": "Veronica Roth",
+      "Editorial": "Editorial Molino",
+      "Año": 2011,
+      "Categoría": "Distopía",
+      "ISBN": "978-8491050889",
+      "Sinopsis": "Una historia de una joven en un mundo dividido en facciones.",
+      "Imagen": "https://www.cuestalibros.com/content/images/thumbs/0130505_divergente-1-bol_550.jpeg"
+    },
+    {
+      "Título": "Los juegos del hambre",
+      "Autor": "Suzanne Collins",
+      "Editorial": "Editorial Molino",
+      "Año": 2008,
+      "Categoría": "Distopía",
+      "ISBN": "978-8491050890",
+      "Sinopsis": "Una lucha por la supervivencia en un futuro post-apocalíptico.",
+      "Imagen": "https://m.media-amazon.com/images/I/71BUB4ubNEL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "Título": "La metamorfosis",
+      "Autor": "Franz Kafka",
+      "Editorial": "Editorial Alianza",
+      "Año": 1915,
+      "Categoría": "Clásico",
+      "ISBN": "978-8491050891",
+      "Sinopsis": "La historia perturbadora de un hombre que se convierte en insecto.",
+      "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXA0KkE6Pt7gUgFmilhMuvKZfwIx5BFHYqpg&s"
+    },
+    {
+      "Título": "El alquimista",
+      "Autor": "Paulo Coelho",
+      "Editorial": "Editorial Planeta",
+      "Año": 1988,
+      "Categoría": "Fantasía",
+      "ISBN": "978-8491050892",
+      "Sinopsis": "Un viaje espiritual en busca de la realización personal.",
+      "Imagen": "https://www.cuestalibros.com/content/images/thumbs/0100839_el-alquimista-bol_550.jpeg"
+    },
+    {
+      "Título": "El principito",
+      "Autor": "Antoine de Saint-Exupéry",
+      "Editorial": "Editorial Salamandra",
+      "Año": 1943,
+      "Categoría": "Fantasía",
+      "ISBN": "978-8491050893",
+      "Sinopsis": "Un cuento filosófico sobre la vida y la amistad.",
+      "Imagen": "https://www.cuestalibros.com/content/images/thumbs/0097260_6227919-h.JPG_550.jpeg"
+    },
+    {
+      "Título": "Un cuento perfecto",
+      "Autor": "Elisabet Benavent",
+      "Editorial": "Editorial Suma",
+      "Año": 2020,
+      "Categoría": "Romance",
+      "ISBN": "978-8491050894",
+      "Sinopsis": "Una historia de amor inesperado y segundas oportunidades.",
+      "Imagen": "https://www.cuestalibros.com/content/images/thumbs/0122319_un-cuento-perfecto-bol_550.jpeg"
+    },
+    {
+      "Título": "Powerless",
+      "Autor": "Tera Lynn Childs",
+      "Editorial": "Editorial HarperCollins",
+      "Año": 2015,
+      "Categoría": "Fantasía",
+      "ISBN": "978-8491050895",
+      "Sinopsis": "Una joven descubre que tiene poderes en un mundo donde no debería.",
+      "Imagen": "https://www.cuestalibros.com/content/images/thumbs/0148269_powerless-saga-powerless-1_550.jpeg"
+    },
+    {
+      "Título": "Las aventuras de Sherlock Holmes",
+      "Autor": "Arthur Conan Doyle",
+      "Editorial": "Editorial Anaya",
+      "Año": 1892,
+      "Categoría": "Misterio",
+      "ISBN": "978-8491050896",
+      "Sinopsis": "Una colección de historias del detective más famoso del mundo.",
+      "Imagen": "https://m.media-amazon.com/images/I/71ZRUBKbi0S._AC_UF350,350_QL50_.jpg"
+    },
+    {
+      "Título": "Harry Potter",
+      "Autor": "J.K. Rowling",
+      "Editorial": "Editorial Salamandra",
+      "Año": 1997,
+      "Categoría": "Fantasía",
+      "ISBN": "978-8491050897",
+      "Sinopsis": "La historia de un joven mago y sus aventuras en Hogwarts.",
+      "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjhOmu22SQn8JBIzTWjgxc2oL9DTw6mw1Uw&s"
+    },
+  {
+    "Título": "La ciudad de las mentiras",
+    "Autor": "Lian Tanner",
+    "Editorial": "Editorial Anaya Infantil y Juvenil",
+    "Año": 2021,
+    "Categoría": "Fantasía Distópica",
+    "ISBN": "978-8491050898",
+    "Descripción": "Una historia de intriga y secretos en una ciudad donde la verdad está prohibida.",
+    "Imagen": "https://www.anayainfantilyjuvenil.com/images/libros/grande/9788469833872-la-ciudad-de-las-mentiras-narrativa-juvenil.jpg"
+  },
+  {
+    "Título": "La belleza de la bestia",
+    "Autor": "Phavy Prieto",
+    "Editorial": "Editorial Titania",
+    "Año": 2017,
+    "Categoría": "Romance",
+    "ISBN": "978-8491050899",
+    "Descripción": "Una nueva versión de la clásica historia de amor.",
+    "Imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600525309i/55377181.jpg"
+  },
+  {
+    "Título": "Etéreo",
+    "Autor": "Joana Marcús",
+    "Editorial": "Montena",
+    "Año": 2011,
+    "Categoría": "Romance paranormal",
+    "ISBN": "978-8491050900",
+    "Descripción": "Una historia de amor y magia en un mundo paralelo.",
+    "Imagen": "https://www.cuestalibros.com/content/images/thumbs/0152224_etereo-es_550.jpeg"
+  },
+  {
+    "Título": "Alas de sangre",
+    "Autor": "Sarah J. Maas",
+    "Editorial": "Editorial Alfaguara",
+    "Año": 2019,
+    "Categoría": "Fantasía",
+    "ISBN": "978-8491050901",
+    "Descripción": "Una épica lucha entre el bien y el mal en un mundo mágico.",
+    "Imagen": "https://www.cuestalibros.com/content/images/thumbs/0145515_alas-de-sangre-empireo-1-td-es_550.jpeg"
+  },
+  {
+    "Título": "El fabricante de lágrimas",
+    "Autor": "Erin Doom",
+    "Editorial": "Editorial Montena",
+    "Año": 2023,
+    "Categoría": "Fantasía, Romance",
+    "ISBN": "978-8419241511",
+    "Descripción": "Un relato de secretos oscuros y emociones manipuladas",
+    "Imagen": "https://www.cuestalibros.com/content/images/thumbs/0140305_fabricante-de-lagrimas_550.jpeg"
+  },
+  {
+    "Título": "Bajo la misma estrella",
+    "Autor": "John Green",
+    "Editorial": "Editorial Nube de Tinta",
+    "Año": 2012,
+    "Categoría": "Romance",
+    "ISBN": "978-8491050903",
+    "Descripción": "Una conmovedora historia de amor entre dos adolescentes con cáncer.",
+    "Imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/3f/50/3f506277398fd59a9e0bb4a15bbd0258.jpg"
+  }
+]
+}
