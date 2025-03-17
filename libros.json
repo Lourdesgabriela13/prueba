@@ -231,5 +231,27 @@
     "Precio":"$800",
     "Imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/3f/50/3f506277398fd59a9e0bb4a15bbd0258.jpg"
   }
+  {
+    "Título": "Ciudades de humo",
+    "Sinopsis": "Una historia de secretos, amor y peligro en una ciudad donde nada es lo que parece.",
+    "Autor": "Joana Marcús",
+    "Editorial": "Editorial Crossbooks",
+    "Año": 2022,
+    "Categoría": "Romance, Misterio, Drama, Juvenil",
+    "ISBN": "978-8408251859",
+    "Precio":"$1,250",
+    "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBybZBOIfTzCCM6yQb7LYs24YVmO6HzcDvFA&s"
+  },
+  {
+    "Título": "Antes de diciembre",
+    "Sinopsis": "Un romance intenso y transformador que cambia a Jenna antes de diciembre.",
+    "Autor": "Joana Marcús",
+    "Editorial": "Editorial Wattpad",
+    "Año": 2021,
+    "Categoría": "Romance Juvenil",
+    "ISBN": "978-9874924971",
+    "Precio":"$1,150",
+    "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9CE1EsQDnYDNG5muSRKZZvkKYb96-V4GGgA&s"
+  },
 ]
 }
